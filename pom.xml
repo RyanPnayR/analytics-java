@@ -15,7 +15,7 @@
   <packaging>pom</packaging>
   <name>Analytics for Java (Parent)</name>
   <description>The hassle-free way to add analytics to your Android app.</description>
-  <url>https://github.com/astronomerio/analytics-java</url>
+  <url>https://github.com/RyanPnayR/analytics-java</url>
 
   <modules>
     <module>analytics-core</module>
@@ -49,9 +49,9 @@
   </properties>
 
   <scm>
-    <url>https://github.com/astronomerio/analytics-java/</url>
-    <connection>scm:git:https://github.com/astronomerio/analytics-java.git</connection>
-    <developerConnection>scm:git:git@github.com:astronomerio/analytics-java.git</developerConnection>
+    <url>https://github.com/RyanPnayR/analytics-java/</url>
+    <connection>scm:git:https://github.com/RyanPnayR/analytics-java.git</connection>
+    <developerConnection>scm:git:git@github.com:RyanPnayR/analytics-java.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
